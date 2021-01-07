@@ -1,2 +1,2 @@
 # LeetCode-Record
-A journey of LeetCode Problem Solving.
+A Journey of LeetCode Problem Solving.
