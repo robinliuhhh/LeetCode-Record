@@ -6,6 +6,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dic = dict() # map
         for i, num in enumerate(nums): # enumerate 同时遍历 key 和 value
+            # print(i, num) key在前 value在后
             cur = target - num
             if cur not in dic:
                 dic[num] = i
@@ -20,3 +21,6 @@ if __name__ == '__main__':
     print(res)
 
 # [0, 1]
+
+# 时间复杂度： O(n)
+# 空间复杂度： O(n)
