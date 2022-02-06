@@ -16,7 +16,7 @@ Carl's tag
 
 ├─ Carl's tag<br>
 └─ JZOffer-Record<br>
-    ├─ Linked List<br>
+&nbsp;&nbsp;&nbsp;├─ Linked List<br>
     ├─ Queue & Stack<br>
     ├─ Tree<br>
     ├─ 位运算<br>
